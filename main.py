@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"message": "Hello API"}
+    return {"message": "Hello from MacBook Air!"}
